@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./figures/figure1.png" width="100%">
+  <img src="./figures/Figure1.png" width="100%">
 </p>
 # COX2-QSAR-ML-XAI
 
