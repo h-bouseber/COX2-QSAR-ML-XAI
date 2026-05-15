@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./figures/figure1.png" width="100%">
+</p>
 # COX2-QSAR-ML-XAI
 
 Reproducible QSAR-XAI workflow for COX-2 inhibitor modeling.
