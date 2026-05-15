@@ -1,0 +1,3 @@
+Dataset,R2,RMSE,MAE,n
+Internal test,0.652,0.754,0.528,460
+External,0.47,0.433,0.368,58
